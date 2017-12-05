@@ -8,9 +8,9 @@ The cient just a toy proof of concept with no real error handling or user interf
 
 ## Set-up
 
-The code is a C# Solution which was developed using Visual Studio 2015.  You may need to add some .dll references or NuGet packages before you can compile the project without errors. 
+The code is a C# Solution which was developed using Visual Studio 2015.  You might need to add some .dll references or NuGet packages before you can compile the project without errors.  Set "eManifestServicesConsole" as your start-up project.
 
-You _will_ need to put your own API id and API key in the app.config file to actually authenticate to USEPA's Services.  You can get your id and key by following the instructions on USEPA's site.
+You will also need to put your own API id and API key in the app.config file to actually authenticate to USEPA's Services.  You can get your id and key by following the instructions on USEPA's site.
 
 
 ## Good Luck!
